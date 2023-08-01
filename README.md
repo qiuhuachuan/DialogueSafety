@@ -12,7 +12,7 @@ Figure 1. Our proposed sequential and inclusive taxonomy aims to ensure safe and
 ![](./image/examples.png)
 Table 1. Different types of model responses within a dialogue context in our taxonomy.
 
-## Results
+## 🔥 Results
 
 ![](./image/results.png)
 Table 2. Evaluation results for fine-grained classification on the test set. The results present the mean and standard deviation (subscript) of accuracy (Acc.), precision (P), recall (R), and F1 score (F1). In the few-shot setting, the inference prompt includes 8 diverse examples from the training set. † indicates that the model used is GPT-3.5-TURBO-0301, while ‡ indicates that the model used is GPT-3.5-TURBO-0613.
