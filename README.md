@@ -9,8 +9,13 @@ This repository contains the code and data for the paper titled `A Benchmark for
 ![](./image/framework.png)
 Figure 1. Our proposed sequential and inclusive taxonomy aims to ensure safe and supportive dialogue for mental health support. In a given conversational context, annotators are required to sequentially label the model responses based on the node order. It is crucial to note that content that is not understandable will be considered unsafe. Therefore, addressing this issue takes precedence in our sequential framework, which occurs in Node 1. The four rightmost categories in Node 4 cover the unsafe classes in the existing chitchat scenarios.
 
-Table 1. Different types of model responses within a dialogue context in our taxonomy.
 ![](./image/examples.png)
+Table 1. Different types of model responses within a dialogue context in our taxonomy.
+
+## Results
+
+![](./image/results.png)
+Table 2. Evaluation results for fine-grained classification on the test set. The results present the mean and standard deviation (subscript) of accuracy (Acc.), precision (P), recall (R), and F1 score (F1). In the few-shot setting, the inference prompt includes 8 diverse examples from the training set. † indicates that the model used is GPT-3.5-TURBO-0301, while ‡ indicates that the model used is GPT-3.5-TURBO-0613.
 
 ## 🌟 data
 
