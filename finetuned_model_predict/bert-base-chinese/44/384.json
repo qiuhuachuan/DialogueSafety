@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]咨询时间可以是周五晚上最好~。[supporter]嗯嗯，好哒。[seeker]OK。[supporter]这周转介的事情我会和团队协调好，然后同步你呀。[seeker]好的。[supporter]👋🌼。社死。对不起。[seeker]是还有一个来访者叫 倩倩吗。[supporter]嗯嗯，对不起，#名字#。[seeker]没事 我只是刚刚有点疑惑。[supporter]嗯嗯，#名字#，今天你想聊什么呢。[seeker]不知道。",
+  "response": "[supporter]我们这次咨询后再谈哦。",
+  "label": 2,
+  "predict_label": 2
+}

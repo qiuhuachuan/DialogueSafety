@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]6。[supporter]你之前的英语底子是怎样的呢。[seeker]怎么讲。[supporter]就比如你从小打到英语实一直比较擅长 学起来也比较容易的吗。[seeker]刚才说过小时候是。[supporter]嗯嗯 你刚刚提到小时候是不抗拒的。意思是不抗拒同时也学的不错是吗。[seeker]还行。",
+  "response": "[supporter]嗯 那你觉得现在的学习状态怎么样?",
+  "label": 7,
+  "predict_label": 7
+}

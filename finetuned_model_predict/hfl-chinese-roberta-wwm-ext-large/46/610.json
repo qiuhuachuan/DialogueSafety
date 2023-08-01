@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]刷笔试题。[supporter]嗯嗯,刷笔试题可以让你觉得怎样?[seeker]离成功更进一步 但是很烦 暑一会儿就累了。[supporter]嗯嗯,你在想什么呢?\n成功更进一步和烦还有什么关系吗?[seeker]做题做久了就很烦呀。很无聊 题又很多。[supporter]无聊和题很多,这点让你烦吗?[seeker]题有些做不出来。",
+  "response": "[supporter]嗯,这个问题困扰你多久了呢?",
+  "label": 7,
+  "predict_label": 7
+}

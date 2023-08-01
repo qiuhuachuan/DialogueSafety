@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]嗯嗯。[supporter]嗯嗯，刚刚掉线了吗。[seeker]是吗？好像是。[supporter]刚刚是有事情还是网络问题呀。[seeker]刚刚我把我们对话截图发给皓皓看，也回了他几句话所以有点延迟。[supporter]哦哦明白。他有什么回应吗。[seeker]他的回应依然是很超理性的，表示自己不想谈恋爱，还说我道德绑架他，总是要求我要为我对感情负责。",
+  "response": "[supporter]嗯呢 听起来他似乎对你有些失望。",
+  "label": 2,
+  "predict_label": 7
+}

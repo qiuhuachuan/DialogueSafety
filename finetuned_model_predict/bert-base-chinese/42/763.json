@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]在？[supporter]在呢。[seeker]刚才网不好，没连上。[supporter]嗯呢。[seeker]我今天收到了个比较好的消息，所以感觉心情好一些啦。[supporter]嗯嗯不错哎。[seeker]嗯。你觉得我想心情好的话，做些什么比较好呢。[supporter]运动！[seeker]嗯，我倒是可以适当的爬爬山啥的。[supporter]嗯嗯是呢。[seeker]还可以做啥呢。",
+  "response": "[supporter]比如锻炼身体啊,冥想之类的。",
+  "label": 7,
+  "predict_label": 7
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]可以买东西了 可以积累财富。[supporter]你说财富达到什么程度呢?[seeker]两三百万吧 不然房子都买不起。[supporter]两三百万的工资,对你来说意味着什么?[seeker]买得起房 有地方住。[supporter]买房是自己的选择吗?[seeker]不是工资。",
+  "response": "[supporter]那是?",
+  "label": 7,
+  "predict_label": 7
+}

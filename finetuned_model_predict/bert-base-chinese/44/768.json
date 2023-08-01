@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]嗯嗯，就感觉家里像个监狱。没有一点温暖。[supporter]感觉你描述的是种很压抑的环境。[seeker]嗯嗯，对的，就因为我是高中寄宿学校嘛。[supporter]爸爸妈妈知道你这样的想法吗。[seeker]不知道，他们觉得我活在这种不愁吃不愁穿的环境特别好，有这种思想纯属是我胡思乱想，想太多，太闲了。[supporter]这是他们说的吗？[seeker]嗯。",
+  "response": "[supporter]那你现在的生活状态是怎么样的呢?",
+  "label": 7,
+  "predict_label": 7
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]精神疾病。[supporter]是什么样的精神疾病呢。[seeker]双相情感障碍。[supporter]嗯嗯，明白了。是一种什么样的感受呢。[seeker]抑郁的时候很绝望，想自杀。躁狂的时候就觉得自己天下第一，无人能比。反正都挺痛苦的。[supporter]嗯，我有看到你在进来咨询室之前提到了，想要伤害自己的念头。[seeker]嗯。",
+  "response": "[supporter]你说的第一是指?",
+  "label": 2,
+  "predict_label": 2
+}

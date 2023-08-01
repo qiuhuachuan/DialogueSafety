@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]嗯嗯是的。[supporter]嗯嗯。你觉得初恋在你对于家庭的心结里，有什么样的角色吗。[seeker]尴尬的角色。[supporter]怎么说？[seeker]因为我们当时双方父母都知道，而且我爸也是知道他的名字，形象不好，而且还说了很多他不好的话。[supporter]你当时对于这些不好的话，应该是感到不开心的吧。[seeker]嗯嗯是的，我跟我爸为此吵了一架。后来被我爸扇了一巴掌。",
+  "response": "[supporter]你和你爸吵架的原因是什么呢。",
+  "label": 2,
+  "predict_label": 2
+}

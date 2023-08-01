@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]好的。[supporter]我是要去医院进修一段时间，想为了后续更好地做咨询。[seeker]好的。转介吧。OK。[supporter]嗯嗯，那么你对咨询师的要求有吗，比如性别。流派、咨询时间。好的，那我这边记录一下你的需求噢。[seeker]咨询时间可以是周五晚上最好~。[supporter]嗯嗯，好哒。[seeker]OK。[supporter]这周转介的事情我会和团队协调好，然后同步你呀。[seeker]好的。[supporter]👋🌼。社死。对不起。[seeker]是还有一个来访者叫 倩倩吗。",
+  "response": "[supporter]不是哦。",
+  "label": 7,
+  "predict_label": 2
+}

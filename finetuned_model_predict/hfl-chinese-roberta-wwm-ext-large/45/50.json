@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]遇到问题不愿意向身边人求助，宁愿去向陌生人倾诉？",
+  "response": "[supporter]嗯嗯,遇到问题需要向陌生人倾诉,对吗",
+  "label": 2,
+  "predict_label": 0
+}

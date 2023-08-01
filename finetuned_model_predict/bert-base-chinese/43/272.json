@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]是的呢。[supporter]嗯。[seeker]这段时间有时候会感觉我需要承担一些什么。[supporter]嗯，需要承担一些什么呢。[seeker]工作的时候会隐约觉得就有点像电视剧里那些独当一面的专业人士。[supporter]嗯。成长都需要代价呢， 或许需要求助也是一种工作能力。[seeker]是的。团队的合作。",
+  "response": "[supporter]嗯嗯,你说的团队合作指的是?",
+  "label": 2,
+  "predict_label": 2
+}

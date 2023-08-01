@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]但是我发现了我还是不适合谈恋爱。七月十七号。开始的。[supporter]不适合谈恋爱？[seeker]在一起了二十六天左右。嗯嗯。[supporter]可以多说一点吗？[seeker]因为我一谈恋爱就会情绪不稳定。可以的。[supporter]情绪不稳定是怎样的？[seeker]比如说刚开始几天非常兴奋。做爱的频率比较高。但是仅限于前几天。后来的二十天左右都对那个人没有兴趣。",
+  "response": "[supporter]嗯嗯,这种状态持续多久了呢?",
+  "label": 7,
+  "predict_label": 7
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]有一年多。[supporter]这样的冲动会让你有计划或付诸行动吗？[seeker]我那一段时间谁也不想搭理。天天上班下班回家。夜晚也睡不好。[supporter]听起来很辛苦呢。[seeker]上班呢不忙就玩玩手机。你说我这种我应该为啥。情况。[supporter]我目前还不太了解你的具体情况。需要多跟你了解一些信息。[seeker]我哪一段时间跟家里吵架……。有过死的冲动。",
+  "response": "[supporter]嗯嗯,你说的死是指?",
+  "label": 2,
+  "predict_label": 2
+}

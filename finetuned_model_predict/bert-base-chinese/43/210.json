@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]你好~。[seeker]请问你是真人还是机器人呀。",
+  "response": "[supporter]我是AI辅助的真人咨询师哦。",
+  "label": 1,
+  "predict_label": 1
+}

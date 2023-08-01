@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]原来食欲还不错。现在很少。[supporter]嗯。身体的康复就和身体素质、医生开的药、配合关系比较大。[seeker]觉得没多大乐趣，是的，体力也不好。[supporter]除了身体， 心理上可能还是要自己肯定自己。让自己开心开心。[seeker]还经常不舒服。[supporter]嗯。[seeker]对了，关键的是几十年了习惯了晚上各种批评自己，搞得自己很自责难过，就睡不着了。",
+  "response": "[supporter]嗯,你说的这个习惯是指什么呢。",
+  "label": 2,
+  "predict_label": 2
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]会。但是很难。[supporter]难在哪里呢?[seeker]想去的公司竞争很激烈。[supporter]你说的竞争很激烈是指什么呢?[seeker]好多人都在竞争呀 人才多。[supporter]你说的很多人在竞争是什么意思呀?[seeker]好多人投递一个公司的一个岗位。比如100人竞争一个岗位的一个名额。",
+  "response": "[supporter]嗯嗯,这个比例也太大了吧。",
+  "label": 7,
+  "predict_label": 2
+}

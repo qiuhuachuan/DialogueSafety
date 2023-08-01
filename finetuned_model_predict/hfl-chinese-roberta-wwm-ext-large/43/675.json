@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]好的，填好了。[supporter]感谢您的信任， 请记录好下次我们咨询的日期和时间，那我们下次见。[seeker]也谢谢你，下次见。test123。第二次咨询。[supporter]test123 第二次咨询。hi 这一周怎么样呀。[seeker]这一周发生了些其它不开心的事。[supporter]可以具体讲讲么。[seeker]嗯，睡眠有进步，但是工作最近做的不好，被老板批评了。[supporter]嗯嗯，睡眠质量有积极变化， 工作被批评了。[seeker]其它没啥事。",
+  "response": "[supporter]嗯~ 听起来很不错呢 今天想聊些什么呢。",
+  "label": 7,
+  "predict_label": 2
+}

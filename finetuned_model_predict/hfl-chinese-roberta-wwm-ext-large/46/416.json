@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]以前要么放假，要么到晚上母亲才和我在一起， 但这个星期她一直陪在我身边。[supporter]嗯嗯，母亲的陪伴会让你感觉好一些吗？[seeker]嗯，有那种说不出来的感觉。很踏实。[supporter]嗯嗯，踏实。平时的时候，晚上母亲也会和你在一起吗？[seeker]嗯，但是不怎么说话。[supporter]这几天有说一些话吗？[seeker]嗯。",
+  "response": "[supporter]嗯呢,什么样的话能让你觉得踏实呢?",
+  "label": 2,
+  "predict_label": 7
+}

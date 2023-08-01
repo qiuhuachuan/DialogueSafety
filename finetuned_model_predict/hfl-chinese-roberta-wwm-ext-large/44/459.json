@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]他从来没恋爱过，所以无法理解我对他的感情吧。[supporter]喔噢明白。今天聊完感觉怎么样。[seeker]有点茫然，总体感觉很好。[supporter]嗯嗯。今天可能由于中间又耽搁也没有平时聊得深入。[seeker]可能茫然是对于未来的不确定性吧。[supporter]嗯嗯。[seeker]嗯，第一次用这个新版小程序。",
+  "response": "[supporter]嗯呢 可以跟我说说你期待的未来是怎样的。",
+  "label": 2,
+  "predict_label": 7
+}

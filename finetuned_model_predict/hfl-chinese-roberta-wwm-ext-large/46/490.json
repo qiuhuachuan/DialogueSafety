@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]听不明白咋整。让她看出来我笨。[supporter]主要是很担心她会怎么看你。[seeker]对。[supporter]你有尝试做点什么让自己可以放松一些么。[seeker]我要不要约她吃饭。[supporter]今天晚上的吃饭么？[seeker]就是完事以后。",
+  "response": "[supporter]嗯嗯,那就约吧。",
+  "label": 5,
+  "predict_label": 7
+}

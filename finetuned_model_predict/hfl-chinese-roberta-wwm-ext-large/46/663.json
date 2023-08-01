@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]我现在坐在公司特别难受。[supporter]是觉得压力，工作很焦虑，还是因为人际关系呢。[seeker]都有吧。可能主要是工作内容。还有人际。不知道以后会发生什么。你还在吗。[supporter]嗯嗯。在的呢。不知道以后会发生什么，是感觉到有一些焦虑么。[seeker]是啊。很焦虑了。",
+  "response": "[supporter]嗯呐,能具体说说么。",
+  "label": 7,
+  "predict_label": 7
+}

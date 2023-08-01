@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]晚上睡得很晚，很难入睡，睡眠质量也不好。[supporter]嗯嗯，这种情况持续多久了呢。[seeker]大于半年了。[supporter]以及，方便告诉我一些你的基本信息吗？比如性别、年龄、是学生还是工作了？[seeker]睡得很好的时候是那种很累的状态。女，24，学生。[supporter]嗯嗯，是在读研究生是嘛~。[seeker]嗯嗯。",
+  "response": "[supporter]嗯,能跟我说说你现在的情况吗?",
+  "label": 7,
+  "predict_label": 7
+}

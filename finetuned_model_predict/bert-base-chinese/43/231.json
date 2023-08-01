@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]睡眠没啥问题。[supporter]喔喔那还好。[seeker]嗯。[supporter]会和朋友聊天吗？能感觉到会有一些人给到你需要的支持吗。[seeker]有些人闲扯还行。但是家里的事情没法说，说了别人也理解不了。[supporter]嗯嗯一个人承担这些家里的事情会有压力吗。[seeker]挺多人承担的，就是大部分人只顾着自己。[supporter]嗯嗯是这样。对你来讲最困扰你的会是哪方面？[seeker]不好意思，今天事情总是打断。我们可以约明天什么时间呀。",
+  "response": "[supporter]嗯好的 周六周日的晚上7:00-8:50。",
+  "label": 2,
+  "predict_label": 7
+}

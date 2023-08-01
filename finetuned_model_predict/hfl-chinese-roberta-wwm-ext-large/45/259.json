@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]有时候在，有时候不在。[supporter]哦哦,那妈妈很受打击的。爸爸不应该在妈妈面前贬低她呀。[seeker]是啊…我觉得爸爸真的把妈妈的尊严和骄傲都伤害了。后来还出轨了。[supporter]是的呀。你前面说的是爸妈还没分开的时候，对吧。[seeker]是。[supporter]爸妈还在一起的时候，爸爸贬低妈妈。[seeker]分开了以后他们也习惯在我面前说对方的事情。",
+  "response": "[supporter]嗯嗯,这个是怎么发生的呢。",
+  "label": 2,
+  "predict_label": 7
+}

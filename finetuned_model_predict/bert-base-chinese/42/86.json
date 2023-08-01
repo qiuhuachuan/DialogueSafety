@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]今天遇见不开心的事，对双标已经忍很长时间？",
+  "response": "[supporter]嗯嗯,忍了很久\n你说的双标是指?",
+  "label": 2,
+  "predict_label": 2
+}

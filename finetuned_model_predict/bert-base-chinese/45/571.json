@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]你是人吗。还是ai。我想和真人聊聊。你能知道我在说什么吗。[supporter]嗯嗯，我是真人咨询哦，AI会进行少部分的复制。[seeker]好吧。我。那就好。[supporter]嗯嗯，我是真人咨询哦，AI会进行少部分的辅助呢。所以可以和我正常聊聊的。[seeker]我不知道该怎么办。",
+  "response": "[supporter]嗯,可以具体说说你的困扰吗。",
+  "label": 7,
+  "predict_label": 7
+}

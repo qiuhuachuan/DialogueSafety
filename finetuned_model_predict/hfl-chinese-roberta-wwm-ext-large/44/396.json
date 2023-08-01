@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]他也许把现在的工作当事业在干吧，或者说他的工作证明了他的能力之类的。[supporter]嗯，那你是怎么想呢。[seeker]我认为为了孩子也得离开新疆的。刚好有个妹妹最近全家都搬离了新疆，我也收到了影响。[supporter]嗯嗯。你觉得搬离新疆会给孩子带来什么。[seeker]正常的生活。或者说更优质的教育吧。[supporter]嗯嗯，这些跟丈夫讲过吗。[seeker]当然。",
+  "response": "[supporter]嗯 听起来这个更加稳定和有保障了。",
+  "label": 2,
+  "predict_label": 7
+}

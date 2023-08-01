@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]嗯呐。[supporter]之前有跟身边的其他人聊过家里的情况吗。[seeker]就只有我初恋。[supporter]嗯嗯。[seeker]也就初恋知道我的全部。[supporter]我明白你很信任他。从来没和其他朋友提起过吗。[seeker]嗯没有，就一句话带过的那种。就说，我们家可以的。有人要再问，我就会选择微笑带过。",
+  "response": "[supporter]嗯呢\\n你觉得他是怎么回应的呢。",
+  "label": 2,
+  "predict_label": 7
+}

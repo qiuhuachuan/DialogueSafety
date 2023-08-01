@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]就是完事以后。[supporter]你约了她也不一定会有时间哦。[seeker]是。[supporter]而且一般来说老师上完课估计也会有一些事情要处理的。[seeker]那不约了？[supporter]你是想通过吃饭让自己可以放松一些？[seeker]接近她。",
+  "response": "[supporter]嗯嗯,这个方法对你来说很有效。",
+  "label": 5,
+  "predict_label": 7
+}

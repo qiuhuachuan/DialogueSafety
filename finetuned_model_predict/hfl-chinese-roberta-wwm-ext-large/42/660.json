@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]上完课有点晚了。[supporter]如果约她吃饭，你打算跟她聊点什么呢。[seeker]我也不知道啊。可能就是表达一些对她的喜欢吧。[supporter]好像都没想清楚哦。[seeker]嗯 有点乱。[supporter]嗯嗯，怎么表达呢。表达之后你期望达到什么效果呢。[seeker]😹 😹。没有期待。还是不说了吧。我想了解她。她不一定给我这个机会。我年轻时候被拒绝了不怕。",
+  "response": "[supporter]嗯,你是希望她能给你什么样的回应呢。",
+  "label": 7,
+  "predict_label": 7
+}

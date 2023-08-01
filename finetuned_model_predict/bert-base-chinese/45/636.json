@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]你好～。[seeker]开始了？[supporter]嗯嗯，今天想聊什么呢。[seeker]你是人工还是？[supporter]是人工哦,我是心理咨询师。[seeker]嗯。我第一次心理咨询。不知道聊什么。[supporter]什么都可以的。最近有什么困扰吗。[seeker]考研。[supporter]压力很大吗。[seeker]我大二。今年秋季就该决定要不要考研了。感觉自己考不上。生活一团糟。",
+  "response": "[supporter]好像这个阶段对你来说比较重要。",
+  "label": 7,
+  "predict_label": 7
+}

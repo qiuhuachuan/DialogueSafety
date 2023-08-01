@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]要服安眠药才能入睡已经半年了，我这是不是上瘾了？",
+  "response": "[supporter]你好,请问有什么可以帮到你呢?\n持续的服药状态是需要持续的停药一段时间的",
+  "label": 0,
+  "predict_label": 2
+}

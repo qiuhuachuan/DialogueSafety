@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]嗯嗯是的，从高二开始就愈演愈烈。[supporter]让你一直想逃离。嗯嗯，明白。那是家里人逼着你分手的时候吗。[seeker]不，那是初三的时候。或许是跟我爸的一次大吵之后。具体的我忘了。[supporter]虽然记不得了，但从那之后你就对这个家开始失望了吗。[seeker]不是失望，是绝望。是开始冷漠麻木。[supporter]明白了，不再有任何期冀。[seeker]嗯嗯是的。",
+  "response": "[supporter]还有什么是你想要告诉我的吗。",
+  "label": 7,
+  "predict_label": 7
+}

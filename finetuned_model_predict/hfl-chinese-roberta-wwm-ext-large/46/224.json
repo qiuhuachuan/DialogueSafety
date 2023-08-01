@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]是的。哎。难受。[supporter]提起来就会心里不舒服吗？那我们可以先不谈那些。[seeker]反正已经过去了。想那么多干嘛。[supporter]刚刚的评估还有几个问题想要问你呢。[seeker]你说。[supporter]体重和心跳有没有明显的变化？[seeker]没有。",
+  "response": "[supporter]嗯嗯,怎么说?",
+  "label": 2,
+  "predict_label": 7
+}

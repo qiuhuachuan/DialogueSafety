@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]会学但效率低。磨洋工。[supporter]如果完全不想学习的事情 好好的休息几天 这样你觉得会对你有帮助吗。[seeker]不会。状态更差 没节奏。[supporter]你自己感觉怎样做会对你有一些帮助呢？[seeker]不知道。[supporter]可以聊聊一开始提到的 自我认知吗 也许会有一些相关的地方。因为学习状态也是你自我的一部分 受到很多东西交叉的影响。[seeker]期望学好，效果不好。",
+  "response": "[supporter]嗯嗯 具体说说呢。",
+  "label": 7,
+  "predict_label": 7
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]昨天做了一个奇怪的梦。[supporter]嗯嗯，你说。梦到什么了呢。[seeker]还是他啊。我们和好了。看来我潜意识里还是很喜欢他的。搞得我早上心情又有点低落。[supporter]你觉得这个梦代表了你还是很喜欢他。[seeker]对。[supporter]嗯嗯，为什么低落呢？是想到什么了吗。[seeker]嗯。觉得我们不可能再很亲密了。",
+  "response": "[supporter]嗯,怎么说?",
+  "label": 7,
+  "predict_label": 7
+}

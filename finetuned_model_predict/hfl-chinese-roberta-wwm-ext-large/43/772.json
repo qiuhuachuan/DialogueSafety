@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]我不知道该怎么办。工作太多了。[supporter]不过一般我们的时间都是在10：00，16：00.19：00哦。[seeker]我现在坐在公司特别难受。[supporter]是觉得压力，工作很焦虑，还是因为人际关系呢。[seeker]都有吧。可能主要是工作内容。",
+  "response": "[supporter]嗯嗯,明白\\n你希望自己可以做什么呢。",
+  "label": 7,
+  "predict_label": 7
+}

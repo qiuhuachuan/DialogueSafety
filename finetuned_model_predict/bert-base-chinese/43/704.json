@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]我知道他们重男轻女。[supporter]嗯嗯，继续说。[seeker]他们没有矛盾的时候还好，有矛盾的时候，就会波及到我。[supporter]怎么个波及法？[seeker]他们两个人不沟通，让我在中间传话。[supporter]你是指父母之间，对吧。[seeker]我如果不按照他们的要求做，就说我不孝顺之类的话。",
+  "response": "[supporter]嗯,你是怎么回应的呢。",
+  "label": 7,
+  "predict_label": 7
+}

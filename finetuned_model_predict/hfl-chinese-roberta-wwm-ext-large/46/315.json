@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]嗯。[supporter]你想要改变现状，变得更好，并在为此付出努力。那么你觉得做什么事会让你更有信心呢？[seeker]我也不知道。[supporter]嗯嗯，或者说，你觉得自己有哪些优点？[seeker]细心?[supporter]嗯嗯。是个很棒的优点。你的细心平时都会体现在哪些方面呢。[seeker]我也说不清。身边的人都会用温柔评价我。",
+  "response": "[supporter]嗯,你喜欢这样的人吗?",
+  "label": 2,
+  "predict_label": 7
+}

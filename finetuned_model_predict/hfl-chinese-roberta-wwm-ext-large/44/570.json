@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]这公司所要做的所有可能的心理学产品。我本来以为主动一点可以改变局面。[supporter]公司要做的所有可能的心理学产品都需要你参与？嗯嗯，[seeker]但是最后看到 技术总监都在老板那里挫败了。大概也没啥希望了。[supporter]这样子。很好奇你们老板是一个什么样子的人。[seeker]公司至今没有卖出过课什么的。[supporter]喔噢，这样子。[seeker]同事都是等着散伙的心态。",
+  "response": "[supporter]听起来很让人失望。",
+  "label": 7,
+  "predict_label": 2
+}

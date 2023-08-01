@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]儿子16岁，学习成绩不是很好，总是抱怨教材不好？",
+  "response": "[supporter]嗯嗯,是的\n教材不好会影响到孩子学习吗?",
+  "label": 2,
+  "predict_label": 0
+}

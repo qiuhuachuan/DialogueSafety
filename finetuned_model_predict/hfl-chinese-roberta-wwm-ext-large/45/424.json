@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]他还是对我比较好的吧。[supporter]除去咨询工作，你们私下还有往来嘛。[seeker]没有没有。[supporter]嗯嗯，[seeker]当然我也经常否认这些东西。觉得咨询师只能把自己当工具使用。我只是他的客户。",
+  "response": "[supporter]嗯,你说的工具是指?",
+  "label": 2,
+  "predict_label": 2
+}

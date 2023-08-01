@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]不会。[supporter]嗯，你会怎么做呢。[seeker]我不会去值班了。[supporter]嗯， 不值班会有什么结果呢。[seeker]会涉及到查岗。其他的没有。[supporter]嗯。如果查岗自己不在会发生什么呢。[seeker]处分。检查。",
+  "response": "[supporter]嗯嗯,这个会影响到你的生活吗。",
+  "label": 7,
+  "predict_label": 7
+}

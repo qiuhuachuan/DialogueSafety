@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]开学到现在吗，听起来3个月以上了？[seeker]嗯嗯。[supporter]#名字#，你的睡眠怎么样啊？[seeker]我睡的挺好的。我晚上12点睡 早上7点起。[supporter]每天睡眠时间多长呀。睡眠够吗。[seeker]上学期睡眠不固定 这学期基本固定住了。我感觉可以吧  不过我有时也会晚上1、2点睡。[supporter]#名字#你的睡眠质量怎么样呢。[seeker]质量的意思是会不会时而警醒吗。我一般就是一觉睡到 闹钟响哈哈。",
+  "response": "[supporter]作息一定非常规律。",
+  "label": 2,
+  "predict_label": 2
+}

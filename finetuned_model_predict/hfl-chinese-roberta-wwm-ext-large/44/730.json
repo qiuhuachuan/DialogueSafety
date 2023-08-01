@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]我是咨询师小天，你可以聊聊你想聊的话题😀。今天心情怎么样？[seeker]hi。随便聊吗。[supporter]你好呀。想聊什么都可以哦。[seeker]额。但是我也不晓得聊啥。比如呢。起个头。[supporter]比如，可以聊聊感情，事业规划，生活压力，任何你想说的都行呀。[seeker]你们这回头是做人工智能吗。现在是真人？后面就是机器人跟我对话吗？[supporter]现阶段都是真人咨询师哦。😄不是机器。[seeker]我怎么不能发表情？😬。有了。",
+  "response": "[supporter]因为目前网络并不太好。",
+  "label": 7,
+  "predict_label": 2
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]当内心被一些似曾相识的情形触动一点点，也会翻腾。[supporter]您觉得自己和孩子经常做到有效沟通吗。[seeker]搞得自己特别虚弱。我觉得沟通渠道还在，只是没那么顺畅。[supporter]内心翻腾具体是一种什么样的情绪呢。[seeker]因为责罚过她，她有些害怕了。[supporter]她理解责罚的原因吗。[seeker]就是心慌慌，但又没表现出来。我觉得她没理解。",
+  "response": "[supporter]嗯嗯,你感觉她没有表达出来。",
+  "label": 2,
+  "predict_label": 7
+}

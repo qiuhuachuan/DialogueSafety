@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]大二学生，没有适应学校，放不下过去怎么办?",
+  "response": "[supporter]嗯嗯,是学校的老师让你觉得很难适应吗?",
+  "label": 2,
+  "predict_label": 7
+}

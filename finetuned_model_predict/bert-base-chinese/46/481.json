@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]做事情的兴趣感怎么样。[seeker]嗯 感觉就是学习嘛  作业比较多。兴趣提不上 就是任务要完成。倒不是兴趣 就是干的动力是交作业。deadline。[supporter]明白，这种弥漫的低沉的心情，是最近一周持续存在吗。[seeker]我感觉应该从开学就有了。[supporter]开学到现在吗，听起来3个月以上了？[seeker]嗯嗯。[supporter]#名字#，你的睡眠怎么样啊？[seeker]我睡的挺好的。我晚上12点睡 早上7点起。",
+  "response": "[supporter]比其他人都早。",
+  "label": 2,
+  "predict_label": 2
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]#名字#，我想邀请你想一想，当你说到好的状态的时候，你想到了哪些片段呢。[seeker]现在来说 晒着阳光在空调自习室学习。在家 或者与其他舍友谈笑。[supporter]听起来是不被打扰和影响的自在。[seeker]是的。[supporter]还有更多吗。[seeker]我想应该没有了。[supporter]这种自在对你来说，带给你的影响有哪些呀。[seeker]快乐 舒适 内心毫无波澜 能专心的做自己的事情。",
+  "response": "[supporter]嗯哼。",
+  "label": 2,
+  "predict_label": 7
+}

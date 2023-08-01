@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]怎么办啊。[supporter]嗯嗯，工作很多，压力很大对吗。[seeker]是啊。干不完了。每天事情都好多啊。怎么办啊我不想干了。可以辞职吗。[supporter]那听起来压力确实很大。在考虑辞职的事情么？[seeker]不想辞职啊可是。我真的好累。好想逃避。[supporter]嗯嗯，这样累的时候会怎么照顾自己呢？[seeker]可是工作才能有钱。",
+  "response": "[supporter]嗯,你说的工作是指?",
+  "label": 2,
+  "predict_label": 2
+}

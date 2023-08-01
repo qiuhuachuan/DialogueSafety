@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]要自己挣钱啊 找不到工作。[supporter]找一个自己喜欢的工作会让你开心吗?[seeker]会。但是很难。[supporter]难在哪里呢?[seeker]想去的公司竞争很激烈。[supporter]你说的竞争很激烈是指什么呢?[seeker]好多人都在竞争呀 人才多。",
+  "response": "[supporter]嗯嗯,是什么样的人才会让他们都来竞争呢?\\n这样的情况持续多久了?",
+  "label": 2,
+  "predict_label": 7
+}

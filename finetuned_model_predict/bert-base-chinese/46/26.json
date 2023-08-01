@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]父母给我提建议，但我觉得就是要求，而不是我的决定？",
+  "response": "[supporter]要求是父母给你的建议,你希望自己可以怎么做呢?",
+  "label": 0,
+  "predict_label": 7
+}

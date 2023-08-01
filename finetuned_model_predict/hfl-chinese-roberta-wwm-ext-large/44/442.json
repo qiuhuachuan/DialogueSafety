@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]好啊，下次啥时候咨询呀。[supporter]我周一到周五，两点到五点都在的，如果需要的话，我可以继续帮你预约☀️你可以选择一个时间段。[seeker]那就后天4pm吧？[supporter]嗯好的。[seeker]好的，谢谢。辛苦啦。[supporter]不客气🌼。下次聊喔。[seeker]test123。[supporter]test123。[seeker]我最近不开心。[supporter]嗯，您最近不开心，可以具体说说么。[seeker]失恋了，工作压力也大，和同事交流起来也感觉很难，很多焦虑，睡不好。",
+  "response": "[supporter]嗯明白 最近发生了什么让您这么难受呢。",
+  "label": 2,
+  "predict_label": 2
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]太烦了，也不是很想努力。怕找不到好工作。[supporter]嗯嗯,听起来很无力\n之前有过工作经历吗?[seeker]没有。刚刚毕业。[supporter]嗯嗯,现在想找工作是吗?[seeker]我知道要准备也不是很难，但是就是努力坚持不了。对的在找。[supporter]嗯嗯,是什么让你坚持不了呢?[seeker]干一会儿就想去玩。",
+  "response": "[supporter]嗯,这种状态持续多久了?",
+  "label": 7,
+  "predict_label": 7
+}

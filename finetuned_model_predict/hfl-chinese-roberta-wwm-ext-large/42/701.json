@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]是的 因为我知道 她不会烦躁。[supporter]社死。对不起。[seeker]是还有一个来访者叫 倩倩吗。[supporter]嗯嗯，对不起，#名字#。[seeker]没事 我只是刚刚有点疑惑。[supporter]嗯嗯，#名字#，今天你想聊什么呢。[seeker]不知道。[supporter]不知道也没有关系，你想到什么都可以，准备好想说的都行。[seeker]我其实一开始来做咨询 就是想要 解决一下我的人际关系敏感等的问题。那就接着上一次没说完的说吧。",
+  "response": "[supporter]好呀。",
+  "label": 7,
+  "predict_label": 7
+}

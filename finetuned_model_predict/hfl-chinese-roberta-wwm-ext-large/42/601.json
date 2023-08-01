@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]你去了吗。那你的结果是什么——我这句话的意思就是要不要去心理健康中心。[seeker]没有  期末了  我想着不打电话预约  怕老师暑假放假。[supporter]明白了。[seeker]结果显示建议去  但是我没有去。[supporter]那#名字#，你现在是还在#地名#学校里吗。[seeker]在的。[supporter]什么时候放假回爸妈那里。[seeker]导师让暑假只放两个星期  所以我8月下旬才能能回家。哎。",
+  "response": "[supporter]听起来似乎心情不太愉快。",
+  "label": 7,
+  "predict_label": 7
+}

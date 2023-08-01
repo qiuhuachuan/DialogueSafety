@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]当然。[supporter]有时候情绪过量的时候，就反而成为了阻碍。[seeker]是的。[supporter]嗯，　这次对孩子情况的焦虑，　是适量的么？[seeker]有点过量。但是难以控制。[supporter]嗯，是的。既然我们意识到了有点过量，不好控制。那我们可以把问题的范围先缩小一点。现在是幼儿园，我们就关注幼儿园时期，　对小学的畅想和担心我们都放到　小学的时候解决。[seeker]好。",
+  "response": "[supporter]嗯\\n今天聊完感觉怎么样?",
+  "label": 2,
+  "predict_label": 2
+}

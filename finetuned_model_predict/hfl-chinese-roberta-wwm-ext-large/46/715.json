@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]说谎。[supporter]是指对你说谎吗。[seeker]是的。[supporter]她对你说谎，这个行为，对你的影响有哪些呀。[seeker]很生气  我上学期一直在实验室  这学期就是因为她不在实验室的。[supporter]如果给生气打个分，最高10分，最低1分，那你生气的程度是多少呀。[seeker]10。我现在天天心情不太好。[supporter]好高！感觉对你影响挺大的。[seeker]是的。",
+  "response": "[supporter]那你会怎么看待这件事情呢。",
+  "label": 7,
+  "predict_label": 7
+}

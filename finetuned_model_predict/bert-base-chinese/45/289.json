@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]一是对比过去有我成长的感觉，二是正确率。[supporter]你开始准备考试多久了呢。[seeker]六个月。[supporter]看起来有一些时间了。你是从什么时候开始感觉到自己效率低的呢。[seeker]一直，最近强烈。[supporter]你目前是一边工作一边备考吗。[seeker]已经辞职了。",
+  "response": "[supporter]嗯嗯,你说的辞职是指?",
+  "label": 2,
+  "predict_label": 2
+}

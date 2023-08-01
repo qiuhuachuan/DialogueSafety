@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]因为所有的人都说是你害死的。没有一个人替你说话。[supporter]这是在你14岁的时候吗？这件事还在继续影响着你吗？[seeker]是的。没有了。[supporter]你自己是怎么看他们的说法呢？[seeker]我觉得我没有做过。然后我都没搭理。[supporter]嗯嗯 那这个有跟其他人说过吗？[seeker]说过。但是人家说别搭理。哎。",
+  "response": "[supporter]嗯 你觉得他们说的话对你的影响是什么?",
+  "label": 7,
+  "predict_label": 7
+}

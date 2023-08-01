@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]他内心其实是虚弱的。[supporter]你最喜欢吃的水果是什么。[seeker]软软的甜甜的。[supporter]柿子？[seeker]熟透的柿子啦，榴莲啦。[supporter]嗯，那最讨厌的水果呢。[seeker]酸涩类的。",
+  "response": "[supporter]嗯嗯,酸酸的,还有吗。",
+  "label": 7,
+  "predict_label": 7
+}

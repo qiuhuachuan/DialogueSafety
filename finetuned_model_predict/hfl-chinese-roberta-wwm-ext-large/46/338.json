@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]#名字#你的睡眠质量怎么样呢。[seeker]质量的意思是会不会时而警醒吗。我一般就是一觉睡到 闹钟响哈哈。[supporter]就是感觉睡得好不好~。[seeker]挺好的。[supporter]听起来还不错，吃饭什么的还行吗，胃口咋样。[seeker]胃口也挺好的。哈哈。没有出现过不想吃。[supporter]那还挺好的，今天想讨论什么呢。[seeker]不知道艾。要不然说一下 我的人际关系？",
+  "response": "[supporter]聊聊生活中的事。",
+  "label": 2,
+  "predict_label": 7
+}

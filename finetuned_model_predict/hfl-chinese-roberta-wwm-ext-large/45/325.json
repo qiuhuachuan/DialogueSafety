@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]我不想啊。我接受不了我这么多年的感情还是走向最坏的结果。[supporter]嗯，我明白你情感上很舍不得。你眼中最坏的结果是什么样的呢？[seeker]就是连以前的亲密感都没有了。[supporter]嗯嗯。[seeker]本来这段时间是更近了。[supporter]你不想失去你们过去的美好。你觉得现在的结果在他眼中也是最坏的吗？[seeker]我不知道。我问过他。",
+  "response": "[supporter]嗯 你怎么看待这件事?",
+  "label": 2,
+  "predict_label": 7
+}

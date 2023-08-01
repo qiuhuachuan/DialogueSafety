@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]不太糟糕。我不太会找话题。[supporter]嗯嗯，没有关系，听说你明天会去医院是吗?[seeker]对✓。[supporter]这一周有什么好转吗？[seeker]不像上周一样紧张感特别强了。有食欲了。[supporter]嗯嗯，没有那么紧张了，有食欲了。还有吗。[seeker]兴趣也有点改变。",
+  "response": "[supporter]嗯,怎么说。",
+  "label": 7,
+  "predict_label": 7
+}

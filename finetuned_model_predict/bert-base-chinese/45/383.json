@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]好像也不是威胁。就是提醒。[supporter]嗯，我明白了。跟我说说高中之前的你是怎样的吧～。[seeker]好像记不清了。好像活泼自在很多。[supporter]嗯嗯。感觉高中的那段经历给你带来了很大的影响。[seeker]我觉得还有家庭的原因吧。[supporter]发生了什么呢？[seeker]妈妈重男轻女。爸爸太忙。他们也不和睦。我知道现在不该抱怨原生家庭。",
+  "response": "[supporter]嗯 听起来妈妈对你影响挺大的。",
+  "label": 2,
+  "predict_label": 7
+}

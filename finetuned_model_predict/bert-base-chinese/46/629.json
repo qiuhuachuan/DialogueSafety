@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]我如果不按照他们的要求做，就说我不孝顺之类的话。是的。[supporter]嗯嗯,[seeker]我说我也有家庭，两个孩子，我要照顾孩子，没那么多时间。[supporter]嗯嗯,理解。[seeker]可他们说，我的生活他们不管。[supporter]嗯嗯，这话有点伤人。[seeker]我也是为人父母，我知道要给我的孩子做榜样。",
+  "response": "[supporter]嗯,你很棒啊\\n你是怎么做到的。",
+  "label": 7,
+  "predict_label": 2
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]接近她。[supporter]有没有尝试过想象的方式呢。[seeker]我不敢想。我怕她拒绝我。我脸皮薄 被拒绝了我再不好意思约了就。[supporter]你是打算要说什么害怕她拒绝你呢。[seeker]约吃饭。[supporter]哦~。[seeker]上完课有点晚了。",
+  "response": "[supporter]嗯嗯\\n那我们先从简单的开始。",
+  "label": 2,
+  "predict_label": 7
+}

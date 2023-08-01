@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]可能不回应我，或者说，赶紧走吧。[supporter]嗯。这是理想结果么。[seeker]不是。[supporter]嗯，那我们再想想，自己还可以怎么做呢。[seeker]给他买瓶他喜欢喝的酒。[supporter]嗯，他会怎么反应呢。[seeker]他可能就不会指责我。",
+  "response": "[supporter]是的,这也是你想要的答案。",
+  "label": 7,
+  "predict_label": 7
+}

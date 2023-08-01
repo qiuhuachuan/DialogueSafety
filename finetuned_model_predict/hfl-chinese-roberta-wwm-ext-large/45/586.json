@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]我想请你说说你对生活的智慧的理解，好吗？[supporter]今天你想探讨这个话题对吗。[seeker]是的。[supporter]我记得之前我们谈到这个话题时你的反应有点大，能说说你对它的理解吗？[seeker]不管是不是接受，生活是赤裸裸的，所以学习还是必要的。所以请你给我一些建议。毕竟你旁观者清。[supporter]嗯。在这之前，你可以先回答我一个问题吗？[seeker]好。",
+  "response": "[supporter]你喜欢什么样的生活呢?",
+  "label": 7,
+  "predict_label": 7
+}

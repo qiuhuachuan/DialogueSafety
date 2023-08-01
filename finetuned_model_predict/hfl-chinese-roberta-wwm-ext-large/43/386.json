@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]嗯嗯，是的。[supporter]是不是这样？不知道你感受到了没有？[seeker]我知道他们重男轻女。[supporter]嗯嗯，继续说。[seeker]他们没有矛盾的时候还好，有矛盾的时候，就会波及到我。[supporter]怎么个波及法？[seeker]他们两个人不沟通，让我在中间传话。",
+  "response": "[supporter]这个传话的对象是谁呢?",
+  "label": 2,
+  "predict_label": 7
+}

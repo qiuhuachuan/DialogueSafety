@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]现在是真人回复了吗。[supporter]嗯嗯 是的。[seeker]工作压力大，有逃避情绪。不想上班。[supporter]嗯嗯 你是从事的什么工作呢？听起来有些累。[seeker]互联网。就也没到996的程度。[supporter]嗯嗯？[seeker]这也刚放完假。",
+  "response": "[supporter]感觉你好像很疲惫 但是又没有办法休息。",
+  "label": 2,
+  "predict_label": 7
+}

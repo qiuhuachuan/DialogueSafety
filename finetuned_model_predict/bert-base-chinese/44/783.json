@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]test123 第二次咨询。hi 这一周怎么样呀。[seeker]这一周发生了些其它不开心的事。[supporter]可以具体讲讲么。[seeker]嗯，睡眠有进步，但是工作最近做的不好，被老板批评了。[supporter]嗯嗯，睡眠质量有积极变化， 工作被批评了。[seeker]其它没啥事。[supporter]好的，这样确实很不舒服。[seeker]是啊。太难受了。[supporter]能感觉到您难受的情绪，发生了这样的事确实不好受， 我陪着您。[seeker]谢谢你的陪伴。现在感觉好点了。",
+  "response": "[supporter]好像心情有变好一些了呢。",
+  "label": 7,
+  "predict_label": 7
+}

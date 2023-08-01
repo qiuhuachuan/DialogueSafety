@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]哈哈。[supporter]你觉得我实在和你商业吹捧吗？[seeker]你，可能有一部分是职业需求。[supporter]你觉得是我的需求，还是你的需求？[seeker]和身份有关。[supporter]当我表达对你的肯定确认和隐约的期待的时候。[seeker]你会察觉到我需要什么，然后你会给到我这些。",
+  "response": "[supporter]你想要的是什么呢?",
+  "label": 7,
+  "predict_label": 2
+}

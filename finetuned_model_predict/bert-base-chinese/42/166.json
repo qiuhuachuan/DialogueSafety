@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]大一，心理医生建议我去医院查抑郁，我该怎么做？",
+  "response": "[supporter]去医院就说有抑郁症状,然后评估一下\n有抑郁症状是正常的,但是评估准确度是很重要的",
+  "label": 7,
+  "predict_label": 5
+}

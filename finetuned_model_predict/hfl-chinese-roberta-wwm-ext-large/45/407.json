@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]雅思7。[supporter]嗯嗯 你目前的水平是怎样的呢。[seeker]6。[supporter]你之前的英语底子是怎样的呢。[seeker]怎么讲。[supporter]就比如你从小打到英语实一直比较擅长 学起来也比较容易的吗。[seeker]刚才说过小时候是。",
+  "response": "[supporter]嗯呢 我记得\\n那你现在是什么水平呢。",
+  "label": 2,
+  "predict_label": 7
+}

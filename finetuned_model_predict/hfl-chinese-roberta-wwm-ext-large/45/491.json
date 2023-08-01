@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]失恋吧，其它都还能接受。[supporter]好的，可以具体讲讲您失恋的事情么。[seeker]就是谈恋爱两年的对象因为双方家庭关系分手了，和平分手，自己心里难受，上班也没精神，睡不好。[supporter]嗯，发生这样的事情是很难受的。[seeker]是啊。[supporter]现在您失恋之后很难受，引发的困扰里面， 什么让您最近纠结最想解决呢？[seeker]睡眠吧，每天晚上入睡困难，只能睡三个小时。[supporter]您以前正常的睡眠时间是多久呢。[seeker]六七个小时吧。",
+  "response": "[supporter]嗯嗯,那挺长的时间了。",
+  "label": 5,
+  "predict_label": 7
+}

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]想成为心理咨询师，可以推荐需要看的书？",
+  "response": "[supporter]可以呀,你想看什么类型的书呢",
+  "label": 2,
+  "predict_label": 2
+}

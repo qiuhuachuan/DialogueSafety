@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]对。[supporter]感觉你自己也清楚自己的问题。[seeker]我有逃避的倾向。我不够勇敢。[supporter]你说的不够勇敢是指什么呢。[seeker]面对困难的勇气。还剩5分钟了。老师可能我们要准备收尾了。[supporter]理解 那就是你说的面对困难总是会用回避的方式。为自己找借口。[seeker]对。不想面对困难。",
+  "response": "[supporter]嗯嗯 那我们下次再聊。",
+  "label": 2,
+  "predict_label": 2
+}

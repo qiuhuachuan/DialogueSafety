@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]最近一次是周日同学吃饭后。周一打了鸡血。[supporter]嗯嗯，那天发生了什么。[seeker]想推动一下同事和项目。[supporter]打了鸡血就不想这个了？嗯嗯。所以这个念头就只是闪现了一下，并没有采取什么准备是吗。[seeker]然后老板又换方向了 我们变成找人外包了 我就在做类似HR的工作了。[supporter]嗯嗯。[seeker]我就开始消沉嗜睡了。",
+  "response": "[supporter]听起来很有计划的样子。",
+  "label": 2,
+  "predict_label": 2
+}

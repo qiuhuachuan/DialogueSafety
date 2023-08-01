@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]题有些做不出来。我就是不想做题 我想出门玩。[supporter]做不出来的时候,你最想怎么办呢?[seeker]我想出门玩。[supporter]你想出去玩,除了不想做题,还有什么别的想法吗?[seeker]没有。[supporter]那你觉得怎么样是好的呢?[seeker]直接找到工作。",
+  "response": "[supporter]嗯嗯 找工作对你来说很重要。",
+  "label": 7,
+  "predict_label": 2
+}

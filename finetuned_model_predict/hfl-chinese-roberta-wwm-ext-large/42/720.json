@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]好。[supporter]小李有这样的疑问，是自己遇到了这样的事情？[seeker]有类似经历。应该算。[supporter]小李愿意和我详细说说看嘛吗？这可以帮助我更好理解。[seeker]但没有过激行为。就是被吓到了但是自我无法控制行动。[supporter]嗯嗯，被吓到了，是遇到什么事情了吗？[seeker]大脑宕机的状态。就比如坐过山车丫啥的。",
+  "response": "[supporter]你说的宕机具体是指什么呢?",
+  "label": 7,
+  "predict_label": 7
+}

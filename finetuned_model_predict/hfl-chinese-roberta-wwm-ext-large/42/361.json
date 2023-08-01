@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]就是感觉睡得好不好~。[seeker]挺好的。[supporter]听起来还不错，吃饭什么的还行吗，胃口咋样。[seeker]胃口也挺好的。哈哈。没有出现过不想吃。[supporter]那还挺好的，今天想讨论什么呢。[seeker]不知道艾。要不然说一下 我的人际关系？[supporter]上次咱们提到了和室友继续相处，你已经找到了一些可行的探索方法。[seeker]但是现在我觉得自己做不到。还是会在意 同门舍友的一些伤人的做法。",
+  "response": "[supporter]我们聊聊你这些原因。",
+  "label": 2,
+  "predict_label": 7
+}

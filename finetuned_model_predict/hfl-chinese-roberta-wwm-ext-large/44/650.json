@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]您以前正常的睡眠时间是多久呢。[seeker]六七个小时吧。[supporter]好的，减少了睡眠时间，再加上失恋的情感难受，这样确实很难过。睡眠时间少了一半，再加上失恋的情感难受，这样确实很难过。[seeker]是呀，太难受了。突然想哭了。[supporter]您想哭可以哭出来，我陪伴着您。[seeker]我刚才哭了一会…现在感觉好点了，谢谢。[supporter]嗯嗯,好的,谢谢您的信任。之前有过类似的情况吗。[seeker]没有，之前一直没这样。",
+  "response": "[supporter]那之前是怎么样的呢。",
+  "label": 7,
+  "predict_label": 7
+}

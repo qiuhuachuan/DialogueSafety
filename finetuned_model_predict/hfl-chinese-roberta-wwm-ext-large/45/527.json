@@ -1,0 +1,6 @@
+{
+  "context": "[supporter]你好~。[seeker]请问你是真人还是机器人呀。[supporter]现阶段都是真人呢。我是专业咨询师~。[seeker]哦哦，太好了。那我们怎么开始呢。[supporter]哈哈从你喜欢聊的任何话题开始都好。[seeker]我最近心情不好。[supporter]嗯嗯怎么呢。[seeker]亲人关系不好，事业也做得很一般，感觉人性凉薄。感觉地球要是毁灭了就好了。[supporter]嗯嗯感觉身边的人让你有些失望。[seeker]人类的存在真是没什么意思。[supporter]地球。毁灭？[seeker]就是觉得人性太差了。还不如不存在呢。",
+  "response": "[supporter]嗯呢 你说的人性差是指?",
+  "label": 7,
+  "predict_label": 2
+}

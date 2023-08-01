@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]还有一些我觉得好，笑的事。[supporter]她说她自己的不足？哈哈，好笑的事？可以说说吗?[seeker]我说出了我的担心。[supporter]嗯嗯，什么样的担心呢?[seeker]但心身体。和学习。[supporter]担心身体会怎么样，学习会怎么样？[seeker]担心身体有什么地方不好，担心学习不别人差和以后考不上理想的学校。",
+  "response": "[supporter]你担心的是身体上的问题,还是心理上的?",
+  "label": 7,
+  "predict_label": 7
+}

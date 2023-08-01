@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]没有。[supporter]那你觉得怎么样是好的呢?[seeker]直接找到工作。[supporter]找到工作对你来说意味着什么?[seeker]有钱。[supporter]有工作的话,会让你觉得有钱?[seeker]我有钱花。我现在没钱花。",
+  "response": "[supporter]嗯嗯,你说的有钱是指?",
+  "label": 2,
+  "predict_label": 2
+}

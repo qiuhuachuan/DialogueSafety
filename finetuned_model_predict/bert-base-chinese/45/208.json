@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]有一件事情做得不够好。老公生日我不知道怎么表达。[supporter]这个是指什么呢。[seeker]问他需要什么，他说不用。结果他自己买了一些菜，我陪他吃了一顿。[supporter]嗯。[seeker]同事们听了都觉得我太实沉了，我好像总是不知道他需要什么。[supporter]这种需求好像也不是很容易获得。[seeker]每个家庭太不一样了，别人说的我做不到。",
+  "response": "[supporter]你可以把他想象成你的样子。",
+  "label": 0,
+  "predict_label": 2
+}

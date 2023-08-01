@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]今年7月我在怀疑，这种使命。上天太不公平。[supporter]嗯嗯，你怀疑上天不公平具体是指？[seeker]我觉得我很努力。[supporter]嗯嗯，请继续。[seeker]但是上天确夺走我的父母。[supporter]嗯嗯，是意外车祸吗。[seeker]我本科是二本。",
+  "response": "[supporter]嗯呢,怎么会想到去二本呢。",
+  "label": 2,
+  "predict_label": 2
+}

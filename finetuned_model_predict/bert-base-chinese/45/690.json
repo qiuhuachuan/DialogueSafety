@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]请问你是真人咨询师，是吗？是的。[supporter]是的,我是真人咨询师哦。[seeker]是的，你理解到位。[supporter]嗯嗯，你想具体聊聊这次的事情，还是工作升职却没有涨工资的一席烦恼呢。[seeker]具体聊这件事情。[supporter]嗯嗯，可以具体说说么。[seeker]刚说了呀。没想到人人可以这么坏。从小到大，教会的价值观都是要善良。",
+  "response": "[supporter]嗯,听起来你很认同这个观点呢。",
+  "label": 7,
+  "predict_label": 7
+}

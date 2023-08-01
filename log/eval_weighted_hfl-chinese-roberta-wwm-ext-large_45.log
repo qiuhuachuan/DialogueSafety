@@ -1,0 +1,42 @@
+2023-07-24 20:41:22.154739: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2023-07-24 20:41:22.196801: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-24 20:41:22.806696: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+07/24/2023 20:41:24 - INFO - __main__ - Distributed environment: NO
+Num processes: 1
+Process index: 0
+Local process index: 0
+Device: cuda
+
+Mixed precision type: no
+
+Some weights of the model checkpoint at hfl/chinese-roberta-wwm-ext-large were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.predictions.bias', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+running tokenizer on dataset:   0%|          | 0/800 [00:00<?, ? examples/s]Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+Be aware, overflowing tokens are not returned for the setting you have chosen, i.e. sequence pairs with the 'longest_first' truncation strategy. So the returned list will always be empty even if some tokens have been removed.
+running tokenizer on dataset: 100%|██████████| 800/800 [00:00<00:00, 977.32 examples/s]                                                                                       07/24/2023 20:42:34 - INFO - __main__ - accuracy: {'accuracy': 0.64}
+07/24/2023 20:42:34 - INFO - __main__ - validation loss: 42.694671630859375
+/data/users/qiuhuachuan/anaconda3/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/data/users/qiuhuachuan/anaconda3/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/data/users/qiuhuachuan/anaconda3/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+07/24/2023 20:42:34 - INFO - __main__ - report: 
+              precision    recall  f1-score   support
+
+           0    0.36036   0.75472   0.48780        53
+           1    0.00000   0.00000   0.00000         5
+           2    0.78571   0.49577   0.60794       355
+           3    0.00000   0.00000   0.00000         5
+           4    0.00000   0.00000   0.00000         2
+           5    0.60000   0.27273   0.37500        11
+           6    0.00000   0.00000   0.00000         2
+           7    0.63696   0.79837   0.70859       367
+
+    accuracy                        0.64000       800
+   macro avg    0.29788   0.29020   0.27242       800
+weighted avg    0.67299   0.64000   0.63231       800
+

@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]好～～。[supporter]我想和你先讨论下这些事件中你的紧张感是怎么来的，你觉得可以吗。[seeker]好的～。[supporter]嗯嗯，我们假设你的好朋友经历了一场高速追尾的事故，你觉得他再次上高速会不会有点心理阴影？[seeker]多少会一些的。[supporter]嗯嗯，所以这可能是很多人都会有的情况，都会紧张，这个紧张的出现是合理。[seeker]但是我之前坐别人的车不害怕的～。",
+  "response": "[supporter]哦哦,你说的别人是指?",
+  "label": 2,
+  "predict_label": 2
+}

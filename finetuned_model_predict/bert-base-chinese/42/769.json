@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]我现在也不自信了。[supporter]嗯嗯，\n是因为什么呢。[seeker]就是他说对我只是朋友。没有别的感觉。他以前不会说的这么直接。[supporter]嗯，他一直否认。[seeker]都会照顾我的情绪。[supporter]他以前也说过类似的话吗？都是怎么说的呢。[seeker]也不是。我没直接问。",
+  "response": "[supporter]嗯。那你有什么打算吗?\\n可以具体说说吗。",
+  "label": 7,
+  "predict_label": 7
+}

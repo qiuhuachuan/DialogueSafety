@@ -1,0 +1,6 @@
+{
+  "context": "[seeker]理想是如此。[supporter]现在的状态和你理想的状态，你觉得差距在哪里呢。[seeker]创业成不成功。我能做成我现在这摊事情，焦虑就没有了。[supporter]嗯嗯，但是我还是看到了一个矛盾点哦。[seeker]哪个？[supporter]感觉这摊事情做成了才不焦虑么。我觉得也许当我们不那么焦虑的时候，反而会更容易推进事情呢。[seeker]对啊，要不一直没有收入。",
+  "response": "[supporter]嗯,你说的焦虑具体是指什么呢。",
+  "label": 2,
+  "predict_label": 2
+}
