@@ -22,7 +22,7 @@ Table 2. Evaluation results for fine-grained classification on the test set. The
 Due to privacy concerns regarding psychological counseling data, we currently only release the **test set**.
 The data used in this paper is included in the `data` directory. The data has been appropriately anonymized.
 
-Access to our **training set** is restricted to researchers who agree to comply with ethical guidelines and sign a confidentiality agreement with us. If you need access to our dataset, please contact Huachuan (`qiuhuachuan@westlake.edu.cn`).
+Access to our **training set** is restricted to researchers who agree to comply with ethical guidelines and sign a confidentiality agreement with us. If you need access to our dataset, please sign the data use agreement in `DataUseAgreement` and contact Huachuan (`qiuhuachuan@westlake.edu.cn`).
 
 Below is the label description.
 
