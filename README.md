@@ -72,12 +72,12 @@ bash eval.sh
 If you find the data or paper useful, kindly cite it in your own work.
 
 ```bibtex
-@misc{qiu2023benchmark,
-      title={A Benchmark for Understanding Dialogue Safety in Mental Health Support},
-      author={Huachuan Qiu and Tong Zhao and Anqi Li and Shuai Zhang and Hongliang He and Zhenzhong Lan},
-      year={2023},
-      eprint={2307.16457},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{qiu2023benchmark,
+  title={A Benchmark for Understanding Dialogue Safety in Mental Health Support},
+  author={Qiu, Huachuan and Zhao, Tong and Li, Anqi and Zhang, Shuai and He, Hongliang and Lan, Zhenzhong},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={1--13},
+  year={2023},
+  organization={Springer}
 }
 ```
